@@ -1,0 +1,15 @@
+torch
+torchvision
+torchaudio
+matplotlib
+numpy
+torchviz
+notebook
+pandas
+scikit-learn
+datasets
+torchmetrics
+wandb
+ipywidgets
+seaborn
+lightning
